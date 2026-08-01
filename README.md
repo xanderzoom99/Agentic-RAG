@@ -43,8 +43,8 @@ src/
 ## Installation
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone <https://github.com/xanderzoom99/Agentic-RAG/>
+cd <Agentic-RAG>
 
 uv sync
 ```
